@@ -1,0 +1,1 @@
+from .views.image_classification_view import ImageClassificationView
